@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldTest.unity
     guid: 15d65782246eeb14ca0b4e10b1329987
+  - enabled: 1
+    path: Assets/Scenes/EnemyTest.unity
+    guid: 744c3efee0011744392b4b41372a1318
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
